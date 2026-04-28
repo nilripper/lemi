@@ -6,7 +6,7 @@ IFCE · APS 2026.1
 
 ## Mathlib4 commit
 
-<!-- Populated in US-03 -->
+Pinned to commit `35aa1b81562b286c55beabdf02fa78e7f4b43b3f` via `lake-manifest.json`.
 
 ## Build
 
